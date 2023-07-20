@@ -1,5 +1,5 @@
 <p float="center">
-  <img src="Source Code/Logo.png?raw=true"  />
+  <img src="https://github.com/BruceExtreme/Youtube-Downloader/blob/main/img/Logo.png?raw=true"  />
 </p>
 
 ## Youtube Downloader  
@@ -9,7 +9,7 @@ It's a simple desktop application where you can download videos and music in hig
 
 ## Demonstration<br>
 <p float="center">
-  <img src="Source Code/Preview.png?raw=true" width="65.1%" />
+  <img src="https://github.com/BruceExtreme/Youtube-Downloader/blob/main/img/Preview.png?raw=true" width="65.1%" />
 </p>
 
 
