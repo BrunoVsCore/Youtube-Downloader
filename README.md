@@ -15,7 +15,7 @@ It's a simple desktop application where you can download videos and music in hig
 
 
 ## Download
-🟢 **[Download Stable release](https://github.com/BrunoVsCore/Youtube-Downloader/releases/tag/Youtube-Downloader)**<br>
+🟢 **[Download Stable release](https://github.com/BrunoVsCore/Youtube-Downloader/releases/tag/Youtube%C2%AD__Downloader)**<br>
    
 
 
