@@ -1,5 +1,5 @@
 <p float="center">
-  <img src="https://github.com/BrunoVsCore/Youtube-Downloader/tree/main/img/Logo.png?raw=true"  />
+  <img src="https://github.com/BrunoVsCore/Youtube-Downloader/blob/main/img/Logo.png?raw=true"  />
 </p>
 
 ## Youtube Downloader  
